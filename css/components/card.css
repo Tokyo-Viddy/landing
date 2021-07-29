@@ -1,0 +1,28 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.card {
+  background-color: rgba(216, 20, 59, 0.788);
+  width: 200px;
+  box-shadow: 0 0 10px rgba(80, 80, 80, 0.4);
+  padding: 24px;
+  justify-content: center;
+  color: white;
+}
+
+.card img {
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+.card p {
+  font-size: 22px;
+}
+
+.card img {
+  width: 100px;
+  height: 100px;
+}

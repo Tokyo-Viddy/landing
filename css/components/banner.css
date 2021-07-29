@@ -1,0 +1,12 @@
+.banner {
+  background-image: url("https://www.awn.com/sites/default/files/styles/original/public/image/featured/1033067-animated-starship-troopers-sequel-flies-theaters-august-21.jpg?itok=klb_rBnj");
+  background-size: cover;
+  background-position: center center;
+  padding: 100px 0;
+  color: rgb(230, 230, 230);
+  text-shadow: rgba(80, 80, 80, 0.3);
+}
+
+.banner p {
+  font-size: 32px;
+}

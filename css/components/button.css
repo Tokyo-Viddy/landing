@@ -1,0 +1,12 @@
+.button-red {
+  background-color: white;
+  color: crimson;
+  padding: 12px 24px;
+  border-radius: 15px;
+  font-weight: bolder;
+}
+
+.button-red:hover {
+  background-color: crimson;
+  color: white;
+}
